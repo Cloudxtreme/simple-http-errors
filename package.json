@@ -1,0 +1,20 @@
+{
+  "name": "simple-errors",
+  "version": "0.0.1",
+  "description": "A simple Error generator",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "1.x",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "errors"
+  ],
+  "author": "Nathan Hoad",
+  "license": "MIT"
+}
