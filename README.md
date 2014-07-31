@@ -1,4 +1,4 @@
-# Simple Errors
+# Simple HTTP Errors
 
 A simple error maker thingy.
 
@@ -15,7 +15,7 @@ A simple error maker thingy.
 # Use
 
 ```javascript
-var errors = require('simple-errors');
+var errors = require('simple-http-errors');
 
 //...
 if (item === undefined) {

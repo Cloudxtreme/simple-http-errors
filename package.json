@@ -1,8 +1,8 @@
 {
-  "name": "simple-errors",
+  "name": "simple-http-errors",
   "version": "0.0.1",
   "description": "A simple Error generator",
-  "homepage": "https://github.com/nathanhoad/simple-errors",
+  "homepage": "https://github.com/nathanhoad/simple-http-errors",
   "main": "index.js",
   "devDependencies": {
     "mocha": "1.x",
@@ -19,10 +19,10 @@
   "author": "Nathan Hoad",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nathanhoad/simple-errors.git"
+    "url": "git://github.com/nathanhoad/simple-http-errors.git"
   },
   "bugs": {
-    "url": "https://github.com/nathanhoad/simple-errors/issues"
+    "url": "https://github.com/nathanhoad/simple-http-errors/issues"
   },
   "license": "MIT"
 }
