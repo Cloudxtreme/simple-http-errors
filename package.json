@@ -2,6 +2,7 @@
   "name": "simple-errors",
   "version": "0.0.1",
   "description": "A simple Error generator",
+  "homepage": "https://github.com/nathanhoad/simple-errors",
   "main": "index.js",
   "devDependencies": {
     "mocha": "1.x",
@@ -16,5 +17,12 @@
     "errors"
   ],
   "author": "Nathan Hoad",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathanhoad/simple-errors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanhoad/simple-errors/issues"
+  },
   "license": "MIT"
 }
